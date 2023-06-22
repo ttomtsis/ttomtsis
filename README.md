@@ -1,5 +1,7 @@
 ### Hi there 👋
+I'm an undergraduate student in University of the Aegean, currently working on my Bachelor thesis ( Cloud function testing ). Proficient in Java and the Spring framework as well as SQL databases.
 
+I am interested in Cloud technologies and DevOps Practices.
 <!--
 **ttomtsis/ttomtsis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
