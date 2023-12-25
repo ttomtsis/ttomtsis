@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm an undergraduate student in University of the Aegean, currently working on my Bachelor thesis.
+I'm an undergraduate student in University of the Aegean, currently working on my Bachelor thesis ( The Icarus Project ).
 
 I am Proficient in Java and the Spring framework as well as SQL databases
 and very interested in Multi-Cloud technologies and Java enterprise applications.
