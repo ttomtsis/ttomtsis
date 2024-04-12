@@ -2,6 +2,7 @@
 I'm a Software Engineer, recently graduated from University of the Aegean.
 
 I am proficient in Java, the Spring framework and SQL databases.
+
 Interested in Cloud technologies and Java enterprise applications.
 <!--
 **ttomtsis/ttomtsis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
