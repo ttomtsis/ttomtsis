@@ -1,9 +1,9 @@
 ### Hi there 👋
-I'm a Software Engineer, recently graduated from University of the Aegean.
+I'm a Software Engineer, who recently graduated from the University of the Aegean.
 
-Proficient in Java, Spring, Hibernate and SQL databases.
+Proficient in Java, Spring, Hibernate, and SQL databases.
 
-Interested in Serverless Computing, emerging Cloud technologies and Java enterprise applications.
+Interested in Serverless Computing, emerging Cloud technologies, and Java enterprise applications.
 <!--
 **ttomtsis/ttomtsis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
